@@ -1,5 +1,9 @@
 package hw0;
-//repo-friend change1
+<<<<<<< HEAD
+//repo-friend change2
+=======
+//repo-me change 1
+>>>>>>> eaff4d227ba75e51e56fffc034d4c7efc4502347
 
 import java.util.Random;
 
